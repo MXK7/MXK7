@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">What's Up 🧠, I'm Mehdi</h1>
 
 <!--
 **MXK7/MXK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+![Cover](https://cdn.discordapp.com/attachments/988164726993350738/1066104969234759790/winnie-the-pooh-tigger.gif)
