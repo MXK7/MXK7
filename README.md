@@ -1,4 +1,5 @@
 <h1 align="center">What's Up 🧠, I'm Mehdi</h1>
+<img border="50" src="https://cdn.discordapp.com/attachments/988164726993350738/1066104969234759790/winnie-the-pooh-tigger.gif">
 
 <!--
 **MXK7/MXK7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +19,4 @@ Here are some ideas to get you started:
 
 
 
-
-![Cover](https://cdn.discordapp.com/attachments/988164726993350738/1066104969234759790/winnie-the-pooh-tigger.gif)
+<!-- ![Cover](https://cdn.discordapp.com/attachments/988164726993350738/1066104969234759790/winnie-the-pooh-tigger.gif) -->
