@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/LUA-lua-blue" />
+<!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> -->
+<!--   <img alt="git" src="https://img.shields.io/badge/LUA-lua-blue" /> -->
 </p>
 
 <h1 align="center">🧠 I don't like questions, so don't ask any.</h1>
