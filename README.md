@@ -7,7 +7,7 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 
 ## 📕 Projects 42:
 <div align="center">
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="">![42 Badge](https://github.com/MXK7/MXK7/42_badges/libfte.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
