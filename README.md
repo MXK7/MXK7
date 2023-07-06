@@ -7,8 +7,8 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 
 # 📕 Projects 42:
 <div align="center">
-  <a href="">![42 Badge]
-    (https://github.com/MXK7/MXK7/blob/main/42_badges/libfte.png)
+  <a href="">
+      https://github.com/MXK7/MXK7/blob/main/42_badges/libfte.png
   </a>
 </div>
 
