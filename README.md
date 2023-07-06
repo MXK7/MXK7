@@ -1,7 +1,7 @@
-<div align="center">
 # 💫 About Me:
 What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre 
 
+<div align="center">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hDkU2bB9Ty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@El_DiMeh) 
