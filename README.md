@@ -5,7 +5,7 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hDkU2bB9Ty) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@El_DiMeh) 
 
-## 📕 Projects 42:
+# 📕 Projects 42:
 <div align="center">
   <a href="">![42 Badge](https://github.com/MXK7/MXK7/blob/main/42_badges/libfte.png)</a>
 </div>
