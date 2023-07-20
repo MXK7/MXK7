@@ -20,6 +20,8 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 [![B2B](https://github.com/MXK7/MXK7/blob/main/42_badges/born2beroote.png)](https://github.com/MXK7)
 [![PUSH_SWAP](https://github.com/MXK7/MXK7/blob/main/42_badges/push_swape.png)](https://github.com/MXK7/42_push_swap)
 [![SOLONG](https://github.com/MXK7/MXK7/blob/main/42_badges/so_longn.png)](https://github.com/MXK7/42_so_long)
+[![MINITALK](https://github.com/MXK7/MXK7/blob/main/42_badges/minitalke.png)](https://github.com/MXK7/42_minitalk)
+
 
 </div>
 
