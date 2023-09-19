@@ -15,12 +15,13 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 <div align="center">
 
 [![LIBFT](https://github.com/MXK7/MXK7/blob/main/42_badges/libfte.png)](https://github.com/MXK7/42_libft)
-[![GNL](https://github.com/MXK7/MXK7/blob/main/42_badges/get_next_linee.png)](https://github.com/MXK7/42_libft/tree/main/ft_gnl)
 [![PRINTF](https://github.com/MXK7/MXK7/blob/main/42_badges/ft_printfe.png)](https://github.com/MXK7/42_libft/tree/main/ft_printf)
+[![GNL](https://github.com/MXK7/MXK7/blob/main/42_badges/get_next_linee.png)](https://github.com/MXK7/42_libft/tree/main/ft_gnl)
 [![B2B](https://github.com/MXK7/MXK7/blob/main/42_badges/born2beroote.png)](https://github.com/MXK7)
-[![PUSH_SWAP](https://github.com/MXK7/MXK7/blob/main/42_badges/push_swape.png)](https://github.com/MXK7/42_push_swap)
 [![SOLONG](https://github.com/MXK7/MXK7/blob/main/42_badges/so_longn.png)](https://github.com/MXK7/42_so_long)
 [![MINITALK](https://github.com/MXK7/MXK7/blob/main/42_badges/minitalke.png)](https://github.com/MXK7/42_minitalk)
+[![PUSH_SWAP](https://github.com/MXK7/MXK7/blob/main/42_badges/push_swape.png)](https://github.com/MXK7/42_push_swap)
+[![MINITALK](https://github.com/MXK7/MXK7/blob/main/42_badges/philosopherse.png)](https://github.com/MXK7/42_philosophers)
 
 
 </div>
