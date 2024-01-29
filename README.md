@@ -20,11 +20,11 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 [![B2B](https://github.com/MXK7/MXK7/blob/main/42_badges/born2beroote.png)](https://github.com/MXK7)
 [![SOLONG](https://github.com/MXK7/MXK7/blob/main/42_badges/so_longe.png)](https://github.com/MXK7/42_so_long)
 [![MINITALK](https://github.com/MXK7/MXK7/blob/main/42_badges/minitalke.png)](https://github.com/MXK7/42_minitalk)
+[![PIPEX](https://github.com/MXK7/MXK7/blob/main/42_badges/pipexe.png)](https://github.com/MXK7/42_pipex)
 [![PUSH_SWAP](https://github.com/MXK7/MXK7/blob/main/42_badges/push_swape.png)](https://github.com/MXK7/42_push_swap)
 [![PHILOSOPHERS](https://github.com/MXK7/MXK7/blob/main/42_badges/philosopherse.png)](https://github.com/MXK7/42_philosophers)
 [![MINISHELL](https://github.com/MXK7/MXK7/blob/main/42_badges/minishelle.png)](https://github.com/MXK7/42_minishell)
 [![CUB3D](https://github.com/MXK7/MXK7/blob/main/42_badges/cub3de.png)](https://github.com/MXK7/42_cub3d)
-
 
 </div>
 
