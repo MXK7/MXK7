@@ -1,15 +1,7 @@
 # 💫 About Me:
 What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre 
 
-
-## 🌐 Socials:
-
-<div align="center">
-  [![Discord](https://skillicons.dev/icons?i=discord)(https://discord.gg/jSWmaUGhfa)]
-</div>
-
 # 📕 Projects 42:
-
 <div align="center">
 
 [![LIBFT](https://github.com/MXK7/MXK7/blob/main/42_badges/libfte.png)](https://github.com/MXK7/42_libft)
