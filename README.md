@@ -5,7 +5,7 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 ## 🌐 Socials:
 
 <div align="center">
-  [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/jSWmaUGhfa)]
+  [![Discord](https://skillicons.dev/icons?i=discord)(https://discord.gg/jSWmaUGhfa)]
 </div>
 
 # 📕 Projects 42:
