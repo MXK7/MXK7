@@ -5,9 +5,7 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 ## 🌐 Socials:
 
 <div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jSWmaUGhfa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/El_DiMeh_) 
-
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/jSWmaUGhfa)
 </div>
 
 # 📕 Projects 42:
@@ -34,10 +32,9 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=lua,c,cpp,html,css,vue,react,scss,debian,discord,discordjs,figma,git,github,mysql,notion,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,c,cpp,html,css,vue,react,scss,debian,discord,discordjs,figma,git,github,mysql,notion,vscode)]
 
 </div>
-
 # 📊 GitHub Stats:
 
 <div align="center">
