@@ -24,7 +24,7 @@ What's Up 🧠, I'm Mehdi<br>Student at 42 Le Havre
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=lua,c,cpp,html,css,vue,react,scss,debian,discord,discordjs,figma,git,github,mysql,notion,vscode)]
+![My Skills](https://skillicons.dev/icons?i=lua,c,cpp,html,css,vue,react,scss,debian,discord,discordjs,figma,git,github,mysql,notion,vscode)
 
 </div>
 # 📊 GitHub Stats:
