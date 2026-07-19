@@ -2,7 +2,8 @@
 <div align="center">
 
 What's Up 🧠, I'm **Mehdi**<br>
-Student at **42 Le Havre** — into systems programming & web development.
+Student at **42 Le Havre** · Owner @ **ID STUDIO**<br>
+Developer specialized in **GTA scripting**, **Web** & **Software**.
 
 </div>
 
