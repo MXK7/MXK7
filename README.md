@@ -31,6 +31,4 @@ Developer specialized in **GTA scripting**, **Web** & **Software**.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MXK7&theme=tokyonight&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MXK7&theme=tokyonight&no-frame=true&column=7)
-
 </div>
