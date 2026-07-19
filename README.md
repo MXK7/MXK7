@@ -2,7 +2,7 @@
 <div align="center">
 
 What's Up 🧠, I'm **Mehdi**<br>
-Student at **42 Le Havre** · Owner @ **ID STUDIO**<br>
+Student at **42 Le Havre** · Owner @ **[ID STUDIO](https://github.com/iDStudi0)**<br>
 Developer specialized in **GTA scripting**, **Web** & **Software**.
 
 </div>
